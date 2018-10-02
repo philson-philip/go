@@ -1,6 +1,6 @@
 # The Go Programming Language
 
-Go is an open source programming language that makes it easy to build simple,
+[Go](https://golang.org/) is an open source programming language that makes it easy to build simple,
 reliable, and efficient software.
 
 ![Gopher image](doc/gopher/fiveyears.jpg)
